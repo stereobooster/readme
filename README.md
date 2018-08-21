@@ -1,6 +1,6 @@
 # About me
 
-## My work
+## My open source projects
 
 I believe type systems can help to prevent a lot of annoying bugs, I explored this idea recently. The challenge is to be able to convince people that types are actually useful. Here is my attempt: [stereobooster/pragmatic-types](https://github.com/stereobooster/pragmatic-types).
 
