@@ -31,3 +31,5 @@ A small experiment to make a really small mime-types gem which didn't get to pro
 When I wasn't busy with network optimization (IO-bounded processes) and memory improvements I also did some MySQL query optimizations and built [small tool for it](https://stereobooster.github.io/explain-you-mysql/).
 
 You can tell I always was obsessed with performance optimization, long before react-snap I built [jekyll-press](https://github.com/stereobooster/jekyll-press), [html_press](https://github.com/stereobooster/html_press) and [css_press](https://github.com/stereobooster/css_press).
+
+My open source profiles: [npm](https://www.npmjs.com/~stereobooster), [rubygems](https://rubygems.org/profiles/stereobooster).
